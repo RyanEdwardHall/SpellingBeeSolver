@@ -6,13 +6,13 @@ async function run() {
     const browser = await chromium.launch({ headless: false });
     const page = await browser.newPage();
     
-    
     await page.goto("https://spellsbee.com/", { waitUntil: 'domcontentloaded'});
     await page.waitForFunction(() => {
         const centerLetter = document.querySelector("#keys-middle");
         return centerLetter && centerLetter.textContent !== "";
     });
     
+    // dismiss how to play instructions
     await page.click('#popup-exit');
     
     // scrape letters
@@ -28,22 +28,28 @@ async function run() {
     const rejected_words = [];
     
     // attempt to input words into the game
+    const exitModal = page.locator("span#popup-exit-alt");
     const wordDoesNotExist = await page.locator("#message.message-bad");
+
     for (const word of words) {
         await page.keyboard.type(word);
         await page.keyboard.press('Enter');
-        await page.waitForTimeout(200); // wait for the game to process the input
 
-        // check if the word was accepted or rejected
         if (await wordDoesNotExist.isVisible()) {
             rejected_words.push(word);
         }
+
+        // modal blocks keyboard events, needs to be dismissed before progressing
+        if (await exitModal.isVisible()) {
+            await exitModal.click();
+        }
     }
 
+    // Eventually the dictionary will converge to a point where it matches the game's dictionary, at which point the game is effectively solved.
     if (rejected_words.length > 0) {
         await filterDictionaryFile(rejected_words);
     }
-    
+
     await page.waitForTimeout(5000);
     await browser.close();
 }
