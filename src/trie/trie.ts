@@ -4,7 +4,7 @@ type Node = Map<string, string[] | Node>;
 async function load() {
   const wordFile = Bun.file("./src/trie/words_alpha.txt");
   const text = await wordFile.text();
-  const words = text.split("\r\n");
+  const words = text.split("\n");
   const trie = words.reduce((trie, word) => {
     return insertWord(trie, word);
   }, new Map() as Node);

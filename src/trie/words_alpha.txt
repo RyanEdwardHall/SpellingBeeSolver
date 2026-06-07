@@ -16,7 +16,6 @@ aardvarks
 aardwolf
 aardwolves
 aargh
-aaron
 aaronic
 aaronical
 aaronite
@@ -5438,7 +5437,6 @@ afflictions
 afflictive
 afflictively
 afflicts
-affloof
 afflue
 affluence
 affluency
@@ -5603,10 +5601,8 @@ afrikaner
 afrit
 afrite
 afrits
-afro
 afrogaea
 afrogaean
-afront
 afrormosia
 afros
 afrown
@@ -7317,7 +7313,6 @@ alans
 alant
 alantic
 alantin
-alantol
 alantolactone
 alantolic
 alants
@@ -8771,7 +8766,6 @@ allivalite
 allmouth
 allmouths
 allness
-allo
 alloantibody
 allobar
 allobaric
@@ -8889,7 +8883,6 @@ allonymous
 allonymously
 allonyms
 allonomous
-alloo
 allopalladium
 allopath
 allopathetic
@@ -9400,7 +9393,6 @@ already
 alreadiness
 alright
 alrighty
-alroot
 alruna
 alrune
 als
@@ -12117,12 +12109,10 @@ anatreptic
 anatripsis
 anatripsology
 anatriptic
-anatron
 anatropal
 anatropia
 anatropous
 anatta
-anatto
 anattos
 anatum
 anaudia
@@ -13485,7 +13475,6 @@ annas
 annat
 annates
 annats
-annatto
 annattos
 anne
 anneal
@@ -13563,7 +13552,6 @@ anniversaries
 anniversarily
 anniversariness
 anniverse
-anno
 annodated
 annoy
 annoyance
@@ -13582,11 +13570,9 @@ annoyously
 annoys
 annominate
 annomination
-annona
 annonaceae
 annonaceous
 annonce
-annot
 annotate
 annotated
 annotater
@@ -13602,7 +13588,6 @@ annotatory
 annotators
 annotine
 annotinous
-annotto
 announce
 announceable
 announced
@@ -13679,7 +13664,6 @@ annunciator
 annunciatory
 annunciators
 annus
-anoa
 anoas
 anobiidae
 anobing
@@ -13808,7 +13792,6 @@ anonymously
 anonymousness
 anonyms
 anonymuncule
-anonol
 anoopsia
 anoopsias
 anoperineal
@@ -13867,7 +13850,6 @@ anorganism
 anorganology
 anormal
 anormality
-anorn
 anorogenic
 anorth
 anorthic
@@ -13903,8 +13885,6 @@ anotherguess
 anotherkins
 anotia
 anotropia
-anotta
-anotto
 anotus
 anounou
 anour
@@ -16457,7 +16437,6 @@ antoeci
 antoecian
 antoecians
 antoinette
-anton
 antonella
 antony
 antonia
@@ -16579,7 +16558,6 @@ aoristically
 aorists
 aorta
 aortae
-aortal
 aortarctia
 aortas
 aortectasia
@@ -18463,7 +18441,6 @@ araquaju
 arar
 arara
 araracanga
-ararao
 ararauna
 arariba
 araroba
@@ -20030,7 +20007,6 @@ armures
 arn
 arna
 arnatta
-arnatto
 arnattos
 arnaut
 arnberry
@@ -20045,13 +20021,10 @@ arnicas
 arnold
 arnoldist
 arnoseris
-arnotta
-arnotto
 arnottos
 arnusian
 arnut
 aro
-aroar
 aroast
 arock
 aroeira
@@ -20069,7 +20042,6 @@ aroints
 aroynts
 arolia
 arolium
-arolla
 aroma
 aromacity
 aromadendrin
@@ -20098,7 +20070,6 @@ aromatophor
 aromatophore
 aromatous
 aronia
-aroon
 aroph
 aroras
 arosaguntacook
@@ -23118,7 +23089,6 @@ attn
 attntrp
 attollent
 attomy
-attorn
 attornare
 attorned
 attorney
@@ -109699,7 +109669,6 @@ fanes
 fanfarade
 fanfare
 fanfares
-fanfaron
 fanfaronade
 fanfaronading
 fanfarons
@@ -109708,7 +109677,6 @@ fanfishes
 fanflower
 fanfold
 fanfolds
-fanfoot
 fang
 fanga
 fangas
@@ -109756,9 +109724,6 @@ fannier
 fannies
 fanning
 fannings
-fannon
-fano
-fanon
 fanons
 fanos
 fanout
@@ -109830,7 +109795,6 @@ fanworts
 fanwright
 fanzine
 fanzines
-faon
 fapesmo
 faq
 faqir
@@ -109870,7 +109834,6 @@ farandmen
 farandola
 farandole
 farandoles
-faraon
 farasula
 faraway
 farawayness
@@ -110012,7 +109975,6 @@ faro
 faroeish
 faroelite
 faroese
-faroff
 farolito
 faros
 farouche
@@ -110331,7 +110293,6 @@ fatling
 fatlings
 fatness
 fatnesses
-fator
 fats
 fatshedera
 fatsia
@@ -114891,7 +114852,6 @@ floyd
 floit
 floyt
 flokite
-flon
 flong
 flongs
 flood
@@ -114978,7 +114938,6 @@ floppiness
 flopping
 flops
 flopwing
-flor
 flora
 florae
 floral
@@ -114987,7 +114946,6 @@ floralize
 florally
 floramor
 floramour
-floran
 floras
 florate
 floreal
@@ -115074,7 +115032,6 @@ florists
 florisugent
 florivorous
 florizine
-floroon
 floroscope
 floroun
 floruit
@@ -115106,11 +115063,8 @@ flossiest
 flossification
 flossiness
 flossing
-flot
-flota
 flotage
 flotages
-flotant
 flotas
 flotation
 flotations
@@ -115637,7 +115591,6 @@ fnese
 fo
 foal
 foaled
-foalfoot
 foalfoots
 foalhood
 foaly
@@ -116049,11 +116002,9 @@ fondus
 fone
 fonly
 fonnish
-fono
 fons
 font
 fontainea
-fontal
 fontally
 fontanel
 fontanelle
@@ -116300,7 +116251,6 @@ foppishness
 fops
 fopship
 for
-fora
 forage
 foraged
 foragement
@@ -117164,8 +117114,6 @@ forewritten
 forewrought
 forex
 forfairn
-forfalt
-forfar
 forfare
 forfars
 forfault
@@ -117316,7 +117264,6 @@ forktail
 forkwise
 forlay
 forlain
-forlana
 forlanas
 forlane
 forleave
@@ -117564,7 +117511,6 @@ forpined
 forpining
 forpit
 forprise
-forra
 forrad
 forrader
 forrard
@@ -117701,7 +117647,6 @@ fortnight
 fortnightly
 fortnightlies
 fortnights
-fortran
 fortranh
 fortravail
 fortread
@@ -119376,7 +119321,6 @@ frontomalar
 frontomallar
 frontomaxillary
 frontomental
-fronton
 frontonasal
 frontons
 frontooccipital
@@ -119440,7 +119384,6 @@ frosts
 frostweed
 frostwork
 frostwort
-frot
 froth
 frothed
 frother
@@ -119460,9 +119403,7 @@ frotted
 frotteur
 frotteurs
 frotting
-frottola
 frottole
-frotton
 froufrou
 froufrous
 frough
@@ -167535,7 +167476,6 @@ lallygagging
 lallygags
 lalling
 lalls
-lalo
 laloneurosis
 lalopathy
 lalopathies
@@ -167852,7 +167792,6 @@ lana
 lanai
 lanais
 lanameter
-lanao
 lanarkia
 lanarkite
 lanas
@@ -168643,7 +168582,6 @@ larnaudian
 larnax
 larnyx
 laroid
-laron
 larree
 larry
 larries
@@ -169025,8 +168963,6 @@ lative
 latke
 latomy
 latomia
-laton
-latona
 latonian
 latooka
 latosol
@@ -169048,13 +168984,11 @@ latrididae
 latrine
 latrines
 latris
-latro
 latrobe
 latrobite
 latrociny
 latrocinium
 latrodectus
-latron
 lats
 latten
 lattener
@@ -174782,7 +174716,6 @@ lokiec
 lokindra
 lokman
 lokshen
-lola
 loli
 loliginidae
 loligo
@@ -174821,7 +174754,6 @@ lolloping
 lollops
 lolls
 lollup
-lolo
 loma
 lomastome
 lomata
@@ -175035,7 +174967,6 @@ lonicera
 lonk
 lonouhard
 lonquhard
-lontar
 loo
 loob
 looby
@@ -175047,8 +174978,6 @@ lood
 looed
 looey
 looeys
-loof
-loofa
 loofah
 loofahs
 loofas
@@ -175229,9 +175158,6 @@ loquent
 loquently
 loquitur
 lor
-lora
-loral
-loran
 lorandite
 lorans
 loranskite
@@ -175323,7 +175249,6 @@ lormery
 lorn
 lornness
 lornnesses
-loro
 loros
 lorraine
 lorrainer
@@ -175364,10 +175289,8 @@ lostling
 lostness
 lostnesses
 lot
-lota
 lotah
 lotahs
-lotan
 lotas
 lotase
 lote
@@ -175385,17 +175308,14 @@ lotion
 lotions
 lotium
 lotment
-loto
 lotong
 lotophagi
 lotophagous
 lotophagously
-lotor
 lotos
 lotoses
 lotrite
 lots
-lotta
 lotte
 lotted
 lotter
@@ -196805,7 +196725,6 @@ naometry
 naomi
 naos
 naosaurus
-naoto
 nap
 napa
 napaea
@@ -197224,7 +197143,6 @@ nataraja
 natation
 natational
 natations
-natator
 natatores
 natatory
 natatoria
@@ -197294,7 +197212,6 @@ nativity
 nativities
 nativus
 natl
-nato
 natr
 natraj
 natricinae
@@ -197307,7 +197224,6 @@ natrix
 natrochalcite
 natrojarosite
 natrolite
-natron
 natrons
 natt
 natter
@@ -200820,13 +200736,10 @@ nol
 nolascan
 nold
 nolition
-noll
 nolle
 nolleity
 nollepros
-nolo
 nolos
-nolt
 nom
 noma
 nomad
@@ -200943,7 +200856,6 @@ nomothetic
 nomothetical
 noms
 non
-nona
 nonabandonment
 nonabatable
 nonabdication
@@ -205421,7 +205333,6 @@ nonnarrative
 nonnasal
 nonnasality
 nonnasally
-nonnat
 nonnational
 nonnationalism
 nonnationalistic
@@ -205649,7 +205560,6 @@ nonoptimistical
 nonoptimistically
 nonoptional
 nonoptionally
-nonoral
 nonorally
 nonorchestral
 nonorchestrally
@@ -207749,7 +207659,6 @@ nontalented
 nontalkative
 nontalkatively
 nontalkativeness
-nontan
 nontangental
 nontangential
 nontangentially
@@ -208481,7 +208390,6 @@ nopals
 nope
 nopinene
 nor
-nora
 noradrenalin
 noradrenaline
 noradrenergic
@@ -208582,8 +208490,6 @@ normotensive
 normothermia
 normothermic
 norms
-norn
-norna
 nornicotine
 nornorwest
 noropianic
@@ -208798,7 +208704,6 @@ nostrummongership
 nostrums
 nosu
 not
-nota
 notabene
 notabilia
 notability
@@ -208814,11 +208719,9 @@ notacanthous
 notacanthus
 notaeal
 notaeum
-notal
 notalgia
 notalgic
 notalia
-notan
 notanduda
 notandum
 notandums
@@ -208844,7 +208747,6 @@ notation
 notational
 notations
 notative
-notator
 notaulix
 notch
 notchback
@@ -211995,7 +211897,6 @@ ola
 olacaceae
 olacaceous
 olacad
-olaf
 olam
 olamic
 olax
@@ -212318,7 +212219,6 @@ olivines
 olivinic
 olivinite
 olivinitic
-olla
 ollamh
 ollapod
 ollas
@@ -212329,7 +212229,6 @@ ollock
 olluck
 olm
 olneya
-olof
 ology
 ological
 ologies
@@ -212340,11 +212239,9 @@ olograph
 olographic
 ololiuqui
 olomao
-olona
 olonets
 olonetsian
 olonetsish
-olor
 oloroso
 olp
 olpae
@@ -212652,7 +212549,6 @@ onagra
 onagraceae
 onagraceous
 onagri
-onan
 onanism
 onanisms
 onanist
@@ -212767,7 +212663,6 @@ onethe
 onetime
 oneupmanship
 onewhere
-onfall
 onflemed
 onflow
 onflowing
@@ -212926,7 +212821,6 @@ onstead
 onsweep
 onsweeping
 ont
-ontal
 ontarian
 ontaric
 ontario
@@ -213061,8 +212955,6 @@ oompah
 oomph
 oomphs
 oons
-oont
-oooo
 oopack
 oopak
 oophyte
@@ -213981,10 +213873,8 @@ orangutan
 orangutang
 orangutans
 orans
-orant
 orante
 orantes
-oraon
 orary
 oraria
 orarian
@@ -214674,8 +214564,6 @@ orlet
 orleways
 orlewise
 orly
-orlo
-orlon
 orlop
 orlops
 orlos
@@ -214686,7 +214574,6 @@ ormolu
 ormolus
 ormond
 ormuzine
-orna
 ornament
 ornamental
 ornamentalism
@@ -214805,7 +214692,6 @@ ornithuric
 ornithurous
 ornithvrous
 ornoite
-oroanal
 orobanchaceae
 orobanchaceous
 orobanche
@@ -214900,7 +214786,6 @@ orpines
 orpington
 orpins
 orpit
-orra
 orrery
 orreriec
 orreries
@@ -215211,8 +215096,6 @@ ortygine
 ortive
 ortyx
 ortman
-ortol
-ortolan
 ortolans
 ortrud
 orts
@@ -215992,7 +215875,6 @@ ototomy
 ototoxic
 otozoum
 ottajanite
-ottar
 ottars
 ottava
 ottavarima
@@ -216008,7 +215890,6 @@ otters
 ottetto
 ottinger
 ottingkar
-otto
 ottoman
 ottomanean
 ottomanic
@@ -260660,7 +260541,6 @@ rantipole
 rantism
 rantize
 rantock
-rantoon
 rantree
 rants
 ranula
@@ -261105,8 +260985,6 @@ ratline
 ratliner
 ratlines
 ratlins
-rato
-ratoon
 ratooned
 ratooner
 ratooners
@@ -261124,7 +261002,6 @@ rattails
 rattan
 rattans
 rattaree
-rattattoo
 ratted
 ratteen
 ratteens
@@ -261185,10 +261062,8 @@ rattling
 rattlingly
 rattlingness
 rattlings
-ratton
 rattoner
 rattons
-rattoon
 rattooned
 rattooning
 rattoons
@@ -273941,7 +273816,6 @@ roleo
 roleplayed
 roleplaying
 roles
-rolf
 rolfe
 roll
 rollable
@@ -273983,7 +273857,6 @@ rollman
 rollmop
 rollmops
 rollneck
-rollo
 rollock
 rollout
 rollouts
@@ -274245,7 +274118,6 @@ rooklet
 rooklike
 rooks
 rookus
-rool
 room
 roomage
 roomed
@@ -274277,7 +274149,6 @@ roomthy
 roomthily
 roomthiness
 roomward
-roon
 roop
 roorbach
 roorback
@@ -274398,7 +274269,6 @@ roquets
 roquette
 roquille
 roquist
-roral
 roratorio
 rori
 rory
@@ -274414,7 +274284,6 @@ roritorious
 rorqual
 rorquals
 rorschach
-rort
 rorty
 rorulent
 ros
@@ -274594,8 +274463,6 @@ rosulate
 rot
 rota
 rotacism
-rotal
-rotala
 rotalia
 rotalian
 rotaliform
@@ -274603,7 +274470,6 @@ rotaliiform
 rotaman
 rotamen
 rotameter
-rotan
 rotanev
 rotang
 rotary
@@ -274628,7 +274494,6 @@ rotatively
 rotativism
 rotatodentate
 rotatoplane
-rotator
 rotatores
 rotatory
 rotatoria
@@ -274660,9 +274525,7 @@ rotifers
 rotiform
 rotisserie
 rotisseries
-rotl
 rotls
-roto
 rotocraft
 rotodyne
 rotograph
@@ -274683,8 +274546,6 @@ rototills
 rotproof
 rots
 rotse
-rotta
-rottan
 rotte
 rotted
 rotten
@@ -274702,7 +274563,6 @@ rottle
 rottlera
 rottlerin
 rottock
-rottolo
 rottweiler
 rotula
 rotulad
@@ -315541,8 +315401,6 @@ talak
 talalgia
 talamanca
 talamancan
-talanton
-talao
 talapoin
 talapoins
 talar
@@ -315717,7 +315575,6 @@ tallywomen
 tallness
 tallnesses
 talloel
-tallol
 tallols
 tallote
 tallow
@@ -316199,9 +316056,6 @@ tannogelatin
 tannogen
 tannoid
 tannometer
-tano
-tanoa
-tanoan
 tanproof
 tanquam
 tanquelinian
@@ -316255,7 +316109,6 @@ tantieme
 tantivy
 tantivies
 tantle
-tanto
 tantony
 tantra
 tantras
@@ -316827,7 +316680,6 @@ tartrazinic
 tartrelic
 tartryl
 tartrylic
-tartro
 tartronate
 tartronic
 tartronyl
@@ -316984,7 +316836,6 @@ tatie
 tatinek
 tatler
 tatmjolk
-tatoo
 tatoos
 tatou
 tatouay
@@ -324922,8 +324773,6 @@ toastmasters
 toastmistress
 toastmistresses
 toasts
-toat
-toatoa
 tob
 toba
 tobacco
@@ -325073,8 +324922,6 @@ toffs
 tofieldia
 tofile
 tofore
-toforn
-toft
 tofter
 toftman
 toftmen
@@ -325230,9 +325077,7 @@ tokonomas
 tokopat
 toktokje
 tol
-tola
 tolamine
-tolan
 tolane
 tolanes
 tolans
@@ -325318,7 +325163,6 @@ tollkeeper
 tollman
 tollmaster
 tollmen
-tollon
 tollpenny
 tolls
 tolltaker
@@ -325335,7 +325179,6 @@ tolstoy
 tolstoyan
 tolstoyism
 tolstoyist
-tolt
 toltec
 toltecan
 tolter
@@ -325501,7 +325344,6 @@ tonalities
 tonalitive
 tonally
 tonalmatl
-tonant
 tonation
 tondi
 tondino
@@ -325616,8 +325458,6 @@ tonkin
 tonkinese
 tonlet
 tonlets
-tonn
-tonna
 tonnage
 tonnages
 tonne
@@ -325681,11 +325521,9 @@ tonsuring
 tontine
 tontiner
 tontines
-tonto
 tonus
 tonuses
 too
-tooart
 toodle
 toodleloodle
 took
@@ -325731,14 +325569,11 @@ toolstock
 toolstone
 toom
 toomly
-toon
-toona
 toons
 toonwood
 toop
 toorie
 toorock
-tooroo
 toosh
 toosie
 toot
@@ -326037,13 +325872,9 @@ toquet
 toquets
 toquilla
 tor
-tora
 torah
 torahs
 toraja
-toral
-toran
-torana
 toras
 torbanite
 torbanitic
@@ -326161,7 +325992,6 @@ tornadoesque
 tornadolike
 tornadoproof
 tornados
-tornal
 tornaria
 tornariae
 tornarian
@@ -326175,7 +326005,6 @@ tornillos
 tornit
 tornote
 tornus
-toro
 toroid
 toroidal
 toroidally
@@ -326183,7 +326012,6 @@ toroids
 torolillo
 toromona
 toronja
-toronto
 torontonian
 tororokombu
 toros
@@ -326192,7 +326020,6 @@ torose
 torosity
 torosities
 toroth
-torotoro
 torous
 torpedineer
 torpedinidae
@@ -326236,7 +326063,6 @@ torquers
 torques
 torqueses
 torquing
-torr
 torrefacation
 torrefaction
 torrefy
@@ -326305,7 +326131,6 @@ torsoocclusion
 torsos
 torsten
 tort
-torta
 tortays
 torte
 torteau
@@ -326339,7 +326164,6 @@ tortoiseshell
 tortoni
 tortonian
 tortonis
-tortor
 tortrices
 tortricid
 tortricidae
@@ -326484,7 +326308,6 @@ totanus
 totaquin
 totaquina
 totaquine
-totara
 totchka
 tote
 toted
@@ -326521,13 +326344,10 @@ totipotent
 totipotential
 totipotentiality
 totitive
-toto
 totoaba
 totonac
 totonacan
 totonaco
-totora
-totoro
 totquot
 tots
 totted
@@ -330875,7 +330695,6 @@ troak
 troaked
 troaking
 troaks
-troat
 trobador
 troca
 trocaical
@@ -330984,7 +330803,6 @@ troegerite
 troezenian
 troffer
 troffers
-troft
 trog
 trogerite
 trogger
@@ -331059,7 +330877,6 @@ trollings
 trollius
 trollman
 trollmen
-trollol
 trollop
 trollopean
 trollopeanism
@@ -331097,8 +330914,6 @@ trompillo
 tromping
 tromple
 tromps
-tron
-trona
 tronador
 tronage
 tronas
@@ -331127,7 +330942,6 @@ troopwise
 trooshlach
 troostite
 troostitic
-troot
 trooz
 trop
 tropacocaine
@@ -331293,7 +331107,6 @@ trotyls
 trotlet
 trotline
 trotlines
-trotol
 trots
 trotskyism
 trotted
