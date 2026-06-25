@@ -30,6 +30,7 @@ async function run() {
     // attempt to input words into the game
     const exitModal = page.locator("span#popup-exit-alt");
     const wordDoesNotExist = await page.locator("#message.message-bad");
+    let victory_modal_count = 0;
 
     for (const word of words) {
         await page.keyboard.type(word);
@@ -41,6 +42,9 @@ async function run() {
 
         // modal blocks keyboard events, needs to be dismissed before progressing
         if (await exitModal.isVisible()) {
+            victory_modal_count += 1;
+            if (victory_modal_count === 1) { console.log('Genius level achieved' ) }
+            if (victory_modal_count === 2) { console.log('All words found!' ) }
             await exitModal.click();
         }
     }
@@ -54,4 +58,5 @@ async function run() {
     await browser.close();
 }
 
-run(); 
+run();
+
