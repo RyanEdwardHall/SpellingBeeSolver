@@ -18,3 +18,24 @@ export async function filterDictionaryFile(rejectedWords: string[]) {
   
   console.log(`💾 Dictionary updated successfully! Saved to ${filePath}`);
 }
+
+export async function filter8PlusUniqueLetterWords() {
+  const filePath = './src/trie/words_alpha.txt';
+  const file = Bun.file(filePath);
+  
+  console.log(`Filtering dictionary for words with 8+ unique letters.`);
+
+  const rawText = await file.text();
+  const allDictionaryWords = rawText.split(/\r?\n/);
+
+  // Keep words that have 7 or fewer unique letters
+  const filteredWords = allDictionaryWords.filter(word => {
+    const uniqueLetters = new Set(word.toLowerCase());
+    return uniqueLetters.size <= 7;
+  });
+
+  // Overwrite the file with the filtered words
+  await Bun.write(filePath, filteredWords.join('\n'));
+  
+  console.log(`💾 Dictionary updated successfully! Saved to ${filePath}`);
+}
