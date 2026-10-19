@@ -3,7 +3,7 @@ import { Search } from './search';
 import { filterDictionaryFile } from './trie/dictionaryPruner';
 
 async function run() {
-    const browser = await chromium.launch({ headless: false });
+    const browser = await chromium.launch({ headless: true });
     const page = await browser.newPage();
     
     await page.goto("https://spellsbee.com/", { waitUntil: 'domcontentloaded'});
